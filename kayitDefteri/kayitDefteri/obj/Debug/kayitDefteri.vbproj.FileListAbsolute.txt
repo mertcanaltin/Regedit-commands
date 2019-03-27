@@ -1,0 +1,12 @@
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\bin\Debug\kayitDefteri.exe.config
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\bin\Debug\kayitDefteri.exe
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\bin\Debug\kayitDefteri.pdb
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\bin\Debug\kayitDefteri.xml
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.vbprojAssemblyReference.cache
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.Form1.resources
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.Resources.resources
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.exe
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.xml
+C:\Users\BIP\Desktop\kayitDefteri\kayitDefteri\obj\Debug\kayitDefteri.pdb
